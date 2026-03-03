@@ -15,7 +15,7 @@
 ## About Me
 
 - 🎓 MSc Data Science & Big Data Analytics student at **Wrexham University** (2025 intake)
-- 💼 Data Science Intern at **Amdari** — building end-to-end fraud detection pipelines
+- 💼 Data Science Consultant at **Amdari** — building end-to-end fraud detection pipelines
 - 🔍 Passionate about Machine Learning, EDA, and turning raw data into actionable insights
 - 🛠️ Currently working on fraud detection modelling using **XGBoost**, **LightGBM** & **Logistic Regression**
 - 📍 Based in Liverpool, United Kingdom
